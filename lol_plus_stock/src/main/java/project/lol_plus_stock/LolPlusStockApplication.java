@@ -11,7 +11,7 @@ public class LolPlusStockApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(LolPlusStockApplication.class, args);
-		System.out.println("test");
+		System.out.println("고동현바보");
 
 	}
 
