@@ -35,11 +35,10 @@ dependencies {
 	// testImplementation 'org.springframework.security:spring-security-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 
-
 	//oauth2
 	// implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
 
-	implementation("org.mybatis.spring.boot:mybatis-spring-boot-starter:3.0.4")
+	implementation("org.mybatis.spring.boot:mybatis-spring-boot-starter:3.0.4") //mybatis 설정
 
 	runtimeOnly 'com.mysql:mysql-connector-j'
 
